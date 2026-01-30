@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>N Login Page eeeeeee</title>
+    <title>N Login Page eee</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
